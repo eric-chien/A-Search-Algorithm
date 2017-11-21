@@ -11,3 +11,6 @@ Result:
     S = start node
     P = path taken
     E = ending node
+
+
+Note: Manhattan method used for calculating heuristic
